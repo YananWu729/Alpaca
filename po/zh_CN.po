@@ -127,7 +127,7 @@ msgstr "已下载的多个模型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:82
 msgid "Model creator screen"
-msgstr ""
+msgstr "模型创建器屏幕"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:96
 #: data/com.jeffser.Alpaca.metainfo.xml.in:116
@@ -152,99 +152,99 @@ msgstr ""
 #: data/com.jeffser.Alpaca.metainfo.xml.in:516
 #: data/com.jeffser.Alpaca.metainfo.xml.in:541
 msgid "New"
-msgstr ""
+msgstr "新"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:98
 msgid "New model manager"
-msgstr ""
+msgstr "新模型管理员"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:99
 msgid "Changed GtkSpinner to AdwSpinner"
-msgstr ""
+msgstr "将 GtkSpinner 更改为 AdwSpinner"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:100
 msgid "Better handling of launch process"
-msgstr ""
+msgstr "更好地处理启动过程"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:101
 msgid "New loading screen at launch"
-msgstr ""
+msgstr "启动时，新加载的屏幕"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:102
 msgid "Better handling of file types"
-msgstr ""
+msgstr "更好地处理文件类型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:103
 msgid "Better regex expression for LaTeX equations"
-msgstr ""
+msgstr "更好的LaTex正则表达式"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:104
 msgid "Confirmation dialog if user closes Alpaca whilst a model is downloading"
-msgstr ""
+msgstr "如果用户在下载模型时关闭 Alpaca，确认对话框出现"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:105
 msgid "Better handling of think tags in messages"
-msgstr ""
+msgstr "更好地处理消息中的思考标签"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:106
 msgid "Default model is now in charge of generating titles"
-msgstr ""
+msgstr "默认模型现在负责生成标题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:107
 msgid "Message header is now shown whilst the message is being generated"
-msgstr ""
+msgstr "现在在生成消息时，显示消息标题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:108
 msgid "Better handling of model profile pictures"
-msgstr ""
+msgstr "更好地处理模型头像"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:109
 msgid "New models in 'available models' list"
-msgstr ""
+msgstr "新模型在可用模型列表内"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:118
 msgid "Added option for attaching screenshots"
-msgstr ""
+msgstr "增加了可附加屏幕截图的选项"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:119
 msgid "Basic LaTeX math equations are now rendered in messages"
-msgstr ""
+msgstr "现在，在消息中呈现基础Latex数学方程式"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:120
 msgid "HTML and C++ scripts can now be run inside Alpaca"
-msgstr ""
+msgstr "现在，HTML和C++脚本会在Alpaca内运行"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:121
 msgid "Added option to open the environment directory from the terminal"
-msgstr ""
+msgstr "增加了从终端打开环境目录的选项"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:122
 msgid "Added option to edit code blocks directly"
-msgstr ""
+msgstr "增加了直接编辑代码块的选项"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:123
 msgid "Complete keyboard shortcut list"
-msgstr ""
+msgstr "完整的键盘快捷键列表"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:124
 msgid "Images are now attached in 640p resolution"
-msgstr ""
+msgstr "现在附加的图像分辨率为 640p"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:125
 msgid "Website attachments now use extracted titles"
-msgstr ""
+msgstr "网站附件现在使用提取的标题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:126
 msgid "Better chat title generation"
-msgstr ""
+msgstr "更好的对话标题生成器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:127
 msgid "Added option to attach any plain text files"
-msgstr ""
+msgstr "增加了附加任何纯文本文件的选项"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:128
 msgid "Added spellchecker to message entry"
-msgstr ""
+msgstr "在消息输入中添加了拼写检查器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:129
 msgid "Alpaca's parameters are now stored using SQLite3"
