@@ -248,11 +248,11 @@ msgstr "在消息输入中添加了拼写检查器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:129
 msgid "Alpaca's parameters are now stored using SQLite3"
-msgstr ""
+msgstr "Alpaca 的参数现在使用 SQLite3 存储"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:130
 msgid "Small appearance changes in text entries"
-msgstr ""
+msgstr "文本输入的外观发生微小变化"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:132
 #: data/com.jeffser.Alpaca.metainfo.xml.in:163
@@ -276,126 +276,126 @@ msgstr ""
 #: data/com.jeffser.Alpaca.metainfo.xml.in:535
 #: data/com.jeffser.Alpaca.metainfo.xml.in:551
 msgid "Fixes"
-msgstr ""
+msgstr "修复"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:134
 msgid "Alpaca's launch process is more reliable"
-msgstr ""
+msgstr "Alpaca的启动过程更可靠"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:135
 msgid "Closing the terminal now kills the script subprocess"
-msgstr ""
+msgstr "现在关闭终端会终止脚本子进程"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:144
 msgid "Transitioned chat backend from JSON to SQLite3"
-msgstr ""
+msgstr "将对话后端从 JSON 转换为 SQLite3"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:145
 msgid "Changed appearance of messages"
-msgstr ""
+msgstr "更改了消息的外观"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:146
 msgid "Added the option to add profile pictures to models"
-msgstr ""
+msgstr "添加了向模型添加头像的选项"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:148
 #: data/com.jeffser.Alpaca.metainfo.xml.in:620
 #: data/com.jeffser.Alpaca.metainfo.xml.in:669
 msgid "Fix"
-msgstr ""
+msgstr "修复"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:150
 msgid "Changed override HIP_VISIBLE_DEVICES to ROCR_VISIBLE_DEVICES"
-msgstr ""
+msgstr "将覆盖 HIP_VISIBLE_DEVICES 更改为 ROCR_VISIBLE_DEVICES"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:159
 msgid "Added categories to models"
-msgstr ""
+msgstr "为模型添加了类别"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:160
 msgid "Specified model's languages"
-msgstr ""
+msgstr "指定模型的语言"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:161
 msgid "Added warning when downloading embedding models"
-msgstr ""
+msgstr "下载嵌入模型时添加警告"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:165
 msgid "Replaced low ram warning with big model warning"
-msgstr ""
+msgstr "将低内存警告替换为大模型警告"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:174
 msgid "Correctly escape markup before rendering message"
-msgstr ""
+msgstr "在呈现信息前正确转义标记"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:175
 msgid "Fixed about dialog not working if log file was missing"
-msgstr ""
+msgstr "修复了日志文件丢失时对话框无法工作的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:184
 msgid "System messages can now be sent directly from Alpaca"
-msgstr ""
+msgstr "系统消息现在可以直接由 Alpaca 发送"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:185
 msgid "New redesign for messages and smaller minimum size"
-msgstr ""
+msgstr "对信息进行全新设计，缩小最小尺寸"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:186
 msgid "New models included in 'available models list'"
-msgstr ""
+msgstr "“可用机型列表”中的新机型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:187
 msgid "Added symbolic icon when attaching code files"
-msgstr ""
+msgstr "在附加代码文件时添加了符号图标"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:188
 msgid "When exporting a chat it now includes a markdown file"
-msgstr ""
+msgstr "导出聊天时，现在会包含一个标记符文件"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:189
 msgid "Refresh button in model manager when using a remote instance"
-msgstr ""
+msgstr "使用远程实例时模型管理器中的刷新按钮"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:190
 msgid "Assistant messages are now editable"
-msgstr ""
+msgstr "助手消息现在可编辑"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:191
 msgid "Updated Ollama to v0.5.2"
-msgstr ""
+msgstr "已将Ollama更新到v0.5.2"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:192
 msgid "New option to change model directory"
-msgstr ""
+msgstr "更改模型目录的新选项"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:193
 msgid "File previewer now resizes dynamically to content"
-msgstr ""
+msgstr "文件预览器现在可根据内容动态调整大小"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:194
 msgid "Adapted Alpaca to work without integrated Ollama instance"
-msgstr ""
+msgstr "使Alpaca适应在没有集成Ollama实例的情况下工作"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:195
 msgid "Compatibility added with ODT files"
-msgstr ""
+msgstr "添加了与ODT文件的兼容性"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:198
 msgid "Restored ROCm compatibility"
-msgstr ""
+msgstr "恢复ROCm兼容性"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:199
 msgid ""
 "Added long press gesture to chat rows so actions can be done in touchscreens"
-msgstr ""
+msgstr "在聊天行中添加了长按手势，以便在触摸屏上操作"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:200
 msgid "Fixed edit button not saving changes"
-msgstr ""
+msgstr "修复了编辑按钮无法保存更改的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:201
 msgid "Changed max temperature value to 2"
-msgstr ""
+msgstr "将最高温度值更改为2"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:202
 msgid "Made seed 0 actually random"
@@ -404,15 +404,15 @@ msgstr ""
 #: data/com.jeffser.Alpaca.metainfo.xml.in:203
 msgid ""
 "Fixed Gnome search provider not working outside of Flatpak installations"
-msgstr ""
+msgstr "修复了Gnome搜索提供程序在Flatpak安装之外无法工作的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:212
 msgid "New option --ask MESSAGE, to open a new 'Quick Ask' window"
-msgstr ""
+msgstr "新选项——询问消息，打开新的“快速询问”窗口"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:213
 msgid "Gnome Search integration now works whilst the app is opened"
-msgstr ""
+msgstr "Gnome搜索集成现在可以在应用程序打开时工作"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:222
 msgid ""
