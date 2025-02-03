@@ -399,7 +399,7 @@ msgstr "将最高温度值更改为2"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:202
 msgid "Made seed 0 actually random"
-msgstr ""
+msgstr "使0号种子实际上是随机的"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:203
 msgid ""
@@ -419,309 +419,311 @@ msgid ""
 "Added launch paramenters --ask MESSAGE, --new-chat CHAT, --select-chat CHAT, "
 "--list-chats, --version"
 msgstr ""
+添加了启动参数--询问消息，--新聊天聊天聊天，--选择聊天聊天聊天
+--列出聊天记录，--版本"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:223
 msgid "Added integration as Gnome Search Provider"
-msgstr ""
+msgstr "添加了作为Gnome搜索提供程序的集成"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:224
 msgid "Updated Ollama to v0.4.2 with new models"
-msgstr ""
+msgstr "Ollama已更新至v0.4.2，并搭载了新车型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:233
 msgid "User messages are now compacted into bubbles"
-msgstr ""
+msgstr "用户消息现在被压缩成气泡"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:237
 msgid ""
 "Fixed re connection dialog not working when 'use local instance' is selected"
-msgstr ""
+msgstr "“修复了选择“使用本地实例”时重新连接对话框不起作用的问题”"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:238
 msgid "Fixed model manager not adapting to large system fonts"
-msgstr ""
+msgstr "修复了模型管理器不适应大型系统字体的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:247
 msgid "Details page for models"
-msgstr ""
+msgstr "模型详细信息页面"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:248
 msgid ""
 "Model selector gets replaced with 'manage models' button when there are no "
 "models downloaded"
-msgstr ""
+msgstr "当没有“已下载模型”时，模型选择器将替换为“管理模型”按钮"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:249
 msgid "Added warning when model is too big for the device"
-msgstr ""
+msgstr "当模型对设备来说太大时，添加警告提示"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:250
 msgid "Added AMD GPU indicator in preferences"
-msgstr ""
+msgstr "在首选项中添加AMD GPU指示器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:259
 msgid "Better system for handling dialogs"
-msgstr ""
+msgstr "更好的对话框处理系统"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:260
 msgid "Better system for handling instance switching"
-msgstr ""
+msgstr "更好的实例切换处理系统"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:261
 msgid "Remote connection dialog"
-msgstr ""
+msgstr "远程连接对话"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:265
 msgid "Fixed: Models get duplicated when switching remote and local instance"
-msgstr ""
+msgstr "已修复：切换远程和本地实例时模型重复的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:266
 msgid "Better internal instance manager"
-msgstr ""
+msgstr "更好的内部实例管理器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:275
 msgid "Added 'Cancel' and 'Save' buttons when editing a message"
-msgstr ""
+msgstr "编辑消息时添加了“取消”和“保存”按钮"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:279
 msgid "Better handling of image recognition"
-msgstr ""
+msgstr "更好地处理图像识别"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:280
 msgid "Remove unused files when canceling a model download"
-msgstr ""
+msgstr "取消模型下载时删除未使用的文件"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:281
 msgid "Better message blocks rendering"
-msgstr ""
+msgstr "更好的消息块渲染"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:290
 msgid "Run bash and python scripts straight from chat"
-msgstr ""
+msgstr "直接从聊天中运行bash和python脚本"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:291
 msgid "Updated Ollama to 0.3.12"
-msgstr ""
+msgstr "Olama已更新为0.3.12"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:292
 msgid "New models!"
-msgstr ""
+msgstr "新模型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:296
 msgid "Fixed and made faster the launch sequence"
-msgstr ""
+msgstr "修复并加快了启动顺序"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:297
 msgid "Better detection of code blocks in messages"
-msgstr ""
+msgstr "更好地检测消息中的代码块"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:298
 msgid "Fixed app not loading in certain setups with Nvidia GPUs"
-msgstr ""
+msgstr "修复了在英伟达 GPU的某些设置中无法加载应用程序的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:307
 msgid ""
 "Fixed message notification sometimes crashing text rendering because of them "
 "running on different threads"
-msgstr ""
+msgstr "修复了消息通知有时会因在不同线程上运行而导致文本呈现崩溃的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:316
 msgid "Fixed message generation sometimes failing"
-msgstr ""
+msgstr "修复了有时消息生成失败的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:325
 msgid "Sidebar resizes with the window"
-msgstr ""
+msgstr "侧边栏随窗口调整大小"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:326
 msgid "New welcome dialog"
-msgstr ""
+msgstr "新的欢迎对话框"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:327
 msgid "Message search"
-msgstr ""
+msgstr "消息搜索"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:328
 msgid "Updated Ollama to v0.3.11"
-msgstr ""
+msgstr "Ollama已更新到 v0.3.11"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:329
 msgid "A lot of new models provided by Ollama repository"
-msgstr ""
+msgstr "Ollama存储库提供了许多新模型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:333
 msgid ""
 "Fixed text inside model manager when the accessibility option 'large text' "
 "is on"
-msgstr ""
+msgstr "修复了当可访问性选项“大文本”启用时模型管理器中的文本"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:334
 msgid "Fixed image recognition on unsupported models"
-msgstr ""
+msgstr "修复了不支持模型的图像识别问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:343
 msgid "Fixed spinner not hiding if the back end fails"
-msgstr ""
+msgstr "修复了后端故障时微调器不隐藏的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:344
 msgid "Fixed image recognition with local images"
-msgstr ""
+msgstr "修复了使用本地图像进行图像识别的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:345
 msgid "Changed appearance of delete / stop model buttons"
-msgstr ""
+msgstr "更改了删除/停止模型按钮的外观"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:346
 msgid "Fixed stop button crashing the app"
-msgstr ""
+msgstr "修复了停止按钮导致应用程序崩溃的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:350
 msgid "Made sidebar resize a little when the window is smaller"
-msgstr ""
+msgstr "当窗口变小时，侧边栏会稍微调整大小"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:351
 msgid "Instant launch"
-msgstr ""
+msgstr "即时启动"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:360
 msgid "Fixed error on first run (welcome dialog)"
-msgstr ""
+msgstr "修复了首次运行时的错误（欢迎对话框）"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:361
 msgid "Fixed checker for Ollama instance (used on system packages)"
-msgstr ""
+msgstr "修复了Ollama实例的检查器（用于系统包）"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:370
 msgid "Fixed 'clear chat' option"
-msgstr ""
+msgstr "修复了“清除聊天”选项"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:371
 msgid "Fixed welcome dialog causing the local instance to not launch"
-msgstr ""
+msgstr "修复了欢迎对话框导致本地实例无法启动的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:372
 msgid "Fixed support for AMD GPUs"
-msgstr ""
+msgstr "修复了对AMD GPU的支持"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:381
 msgid "Model, message and chat systems have been rewritten"
-msgstr ""
+msgstr "模型、消息和聊天系统已被重写"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:382
 msgid "New models are available"
-msgstr ""
+msgstr "有可用的新模型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:383
 msgid "Ollama updated to v0.3.9"
-msgstr ""
+msgstr "Ollama已更新到 v0.3.9"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:384
 msgid "Added support for multiple chat generations simultaneously"
-msgstr ""
+msgstr "添加了同时支持多代聊天的功能"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:385
 msgid "Added experimental AMD GPU support"
-msgstr ""
+msgstr "添加了实验性AMD GPU支持"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:386
 msgid "Added message loading spinner and new message indicator to chat tab"
-msgstr ""
+msgstr "在聊天选项卡中添加了消息加载微调器和新的消息指示器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:387
 msgid "Added animations"
-msgstr ""
+msgstr "动画已添加"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:388
 msgid "Changed model manager / model selector appearance"
-msgstr ""
+msgstr "更改了模型管理器/模型选择器外观"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:389
 msgid "Changed message appearance"
-msgstr ""
+msgstr "更改消息外观"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:390
 msgid "Added markdown and code blocks to user messages"
-msgstr ""
+msgstr "在用户消息中添加了标记和代码块"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:391
 msgid "Added loading dialog at launch so the app opens faster"
-msgstr ""
+msgstr "在启动时添加了加载对话框，使应用程序打开得更快"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:392
 msgid "Added warning when device is on 'battery saver' mode"
-msgstr ""
+msgstr "当设备处于“电池省电”模式时添加警告提示"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:393
 msgid "Added inactivity timer to integrated instance"
-msgstr ""
+msgstr "在集成实例中添加了不活跃计时器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:396
 msgid "The chat is now scrolled to the bottom when it's changed"
-msgstr ""
+msgstr "当聊天内容更改后，对话框会滚动到底部"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:397
 msgid "Better handling of focus on messages"
-msgstr ""
+msgstr "更好地处理对消息的关注"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:398
 msgid "Better general performance on the app"
-msgstr ""
+msgstr "应用程序的总体性能更好"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:407
 msgid "New duplicate chat option"
-msgstr ""
+msgstr "新的重复聊天选项"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:408
 msgid "Changed model selector appearance"
-msgstr ""
+msgstr "更改了模型选择器外观"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:409
 msgid "Message entry is focused on launch and chat change"
-msgstr ""
+msgstr "消息输入侧重于启动和聊天更改"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:410
 msgid "Message is focused when it's being edited"
-msgstr ""
+msgstr "消息在编辑时被聚焦"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:411
 msgid "Added loading spinner when regenerating a message"
-msgstr ""
+msgstr "重新生成消息时添加了加载微调器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:412
 msgid "Added Ollama debugging to 'About Alpaca' dialog"
-msgstr ""
+msgstr "在“关于Alpaca”对话框中添加Ollama调试"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:413
 msgid "Changed YouTube transcription dialog appearance and behavior"
-msgstr ""
+msgstr "更改了YouTube转录对话框的外观和行为"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:417
 msgid "CTRL+W and CTRL+Q stops local instance before closing the app"
-msgstr ""
+msgstr "CTRL+W和CTRL+Q在关闭应用程序之前停止本地实例"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:418
 msgid "Changed appearance of 'Open Model Manager' button on welcome screen"
-msgstr ""
+msgstr "更改了欢迎界面上“打开模型管理器”按钮的外观"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:419
 msgid "Fixed message generation not working consistently"
-msgstr ""
+msgstr "修复了消息生成不一致的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:420
 msgid "Fixed message edition not working consistently"
-msgstr ""
+msgstr "修复了消息编辑不一致的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:429
 msgid "Model manager opens faster"
-msgstr ""
+msgstr "模型管理器打开速度更快"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:430
 msgid "Delete chat option in secondary menu"
-msgstr ""
+msgstr "删除辅助菜单中的聊天选项"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:431
 msgid "New model selector popup"
-msgstr ""
+msgstr "新模型选择器弹出"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:432
 msgid "Standard shortcuts"
