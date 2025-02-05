@@ -727,167 +727,167 @@ msgstr "新模型选择器弹出"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:432
 msgid "Standard shortcuts"
-msgstr ""
+msgstr "标准快捷键"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:433
 msgid "Model manager is navigable with keyboard"
-msgstr ""
+msgstr "模型管理器可由键盘导航"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:434
 msgid "Changed sidebar collapsing behavior"
-msgstr ""
+msgstr "更改侧边栏折叠行为"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:435
 msgid "Focus indicators on messages"
-msgstr ""
+msgstr "将指示信号聚焦于信息"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:436
 msgid "Welcome screen"
-msgstr ""
+msgstr "欢迎页"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:437
 msgid "Give message entry focus at launch"
-msgstr ""
+msgstr "在启动时关注消息输入"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:438
 msgid "Generally better code"
-msgstr ""
+msgstr "整体上更好的代码"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:442
 msgid "Better width for dialogs"
-msgstr ""
+msgstr "更好的对话框宽度"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:443
 msgid "Better compatibility with screen readers"
-msgstr ""
+msgstr "更好的屏幕阅读器的兼容性"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:444
 msgid "Fixed message regenerator"
-msgstr ""
+msgstr "修复了消息再生器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:445
 msgid "Removed 'Featured models' from welcome dialog"
-msgstr ""
+msgstr "从欢迎对话框中删除了“特色模型”"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:446
 msgid "Added default buttons to dialogs"
-msgstr ""
+msgstr "在对话框中添加了默认按钮"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:447
 msgid "Fixed import / export of chats"
-msgstr ""
+msgstr "修复聊天记录的导入/导出"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:448
 msgid "Changed Python2 title to Python on code blocks"
-msgstr ""
+msgstr "在代码块上将Python2标题更改为Python"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:449
 msgid ""
 "Prevent regeneration of title when the user changed it to a custom title"
-msgstr ""
+msgstr "当用户将标题更改为自定义标题时，防止重新生成标题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:450
 msgid "Show date on stopped messages"
-msgstr ""
+msgstr "在停止消息上显示日期"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:451
 msgid "Fix clear chat error"
-msgstr ""
+msgstr "修复清除聊天错误"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:460
 msgid "Changed shortcuts to standards"
-msgstr ""
+msgstr "将快捷键改为标准"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:461
 msgid "Moved 'Manage Models' button to primary menu"
-msgstr ""
+msgstr "将“管理模型”按钮移至主菜单"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:462
 #: data/com.jeffser.Alpaca.metainfo.xml.in:484
 msgid "Stable support for GGUF model files"
-msgstr ""
+msgstr "稳定支持GGUF模型文件"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:463
 #: data/com.jeffser.Alpaca.metainfo.xml.in:738
 msgid "General optimizations"
-msgstr ""
+msgstr "常规优化"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:467
 msgid "Better handling of enter key (important for Japanese input)"
-msgstr ""
+msgstr "更好地处理输入键（对日语输入很重要）"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:468
 msgid "Removed sponsor dialog"
-msgstr ""
+msgstr "删除资助人对话框"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:469
 msgid "Added sponsor link in about dialog"
-msgstr ""
+msgstr "在关于对话框中添加资助人链接"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:470
 msgid "Changed window and elements dimensions"
-msgstr ""
+msgstr "更改了窗口和元素的尺寸"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:471
 msgid "Selected model changes when entering model manager"
-msgstr ""
+msgstr "进入模型管理器时，更改所选模型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:472
 msgid "Better image tooltips"
-msgstr ""
+msgstr "更好的图像工具提示"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:473
 msgid "GGUF Support"
-msgstr ""
+msgstr "GGUF 支持"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:482
 msgid "Regenerate any response, even if they are incomplete"
-msgstr ""
+msgstr "重新生成任何回复，即使是不完整的回复"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:483
 msgid "Support for pulling models by name:tag"
-msgstr ""
+msgstr "支持按名称：标签提取模型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:485
 msgid "Restored sidebar toggle button"
-msgstr ""
+msgstr "恢复侧边栏切换按钮"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:489
 msgid "Reverted back to standard styles"
-msgstr ""
+msgstr "恢复到标准样式"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:490
 msgid "Fixed generated titles having \"'S\" for some reason"
-msgstr ""
+msgstr "修复了因某种原因生成的标题带有“'S”的问题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:491
 msgid "Changed min width for model dropdown"
-msgstr ""
+msgstr "更改了模型下拉菜单的最小宽度"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:492
 msgid "Changed message entry shadow"
-msgstr ""
+msgstr "已更改的信息条目阴影"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:493
 msgid "The last model used is now restored when the user changes chat"
-msgstr ""
+msgstr "当用户更改聊天时，现在会恢复使用的最后一个模型"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:494
 msgid "Better check for message finishing"
-msgstr ""
+msgstr "更好地检查消息是否已完成"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:503
 msgid "Added table rendering (Thanks Nokse)"
-msgstr ""
+msgstr "添加了表格渲染（感谢Nokse）"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:507
 msgid "Made support dialog more common"
-msgstr ""
+msgstr "使支持对话框更常见"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:508
 msgid ""
 "Dialog title on tag chooser when downloading models didn't display properly"
-msgstr ""
+msgstr "“下载模型时标记选择器上的对话框标题显示不正确”"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:509
 msgid "Prevent chat generation from generating a title with multiple lines"
