@@ -418,9 +418,9 @@ msgstr "Gnome搜索集成现在可以在应用程序打开时工作"
 msgid ""
 "Added launch paramenters --ask MESSAGE, --new-chat CHAT, --select-chat CHAT, "
 "--list-chats, --version"
-msgstr ""
-添加了启动参数--询问消息，--新聊天聊天聊天，--选择聊天聊天聊天
---列出聊天记录，--版本"
+msgstr "添加了启动参数--询问消息，--新-聊天 聊天，--选择-聊天 聊天，“聊天
+”--列出-聊天记录，--版本""
+
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:223
 msgid "Added integration as Gnome Search Provider"
