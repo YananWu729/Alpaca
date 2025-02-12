@@ -891,161 +891,161 @@ msgstr "“下载模型时标记选择器上的对话框标题显示不正确”
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:509
 msgid "Prevent chat generation from generating a title with multiple lines"
-msgstr ""
+msgstr "防止聊天生成生成多行标题"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:518
 msgid "Bearer Token entry on connection error dialog"
-msgstr ""
+msgstr "连接错误对话框中的承载令牌条目"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:519
 msgid "Small appearance changes"
-msgstr ""
+msgstr "细微外观变化"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:520
 msgid "Compatibility with code blocks without explicit language"
-msgstr ""
+msgstr "与没有显式语言的代码块兼容"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:521
 msgid "Rare, optional and dismissible support dialog"
-msgstr ""
+msgstr "稀有、可选和可忽略的支持对话框"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:525
 msgid "Date format for Simplified Chinese translation"
-msgstr ""
+msgstr "简体中文翻译的日期格式"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:526
 msgid "Bug with unsupported localizations"
-msgstr ""
+msgstr "不支持本地化的故障"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:527
 msgid "Min height being too large to be used on mobile"
-msgstr ""
+msgstr "最小高度太大，无法在手机上使用"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:528
 msgid "Remote connection checker bug"
-msgstr ""
+msgstr "远程连接检查器错误"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:537
 msgid "Models with capital letters on their tag don't work"
-msgstr ""
+msgstr "模型上有大写字母的模型不起作用"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:538
 msgid "Ollama fails to launch on some systems"
-msgstr ""
+msgstr "Ollama在某些系统上无法qidong"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:539
 msgid "YouTube transcripts are not being saved in the right TMP directory"
-msgstr ""
+msgstr "YouTube转录未保存在正确的TMP目录中"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:543
 msgid "Debug messages are now shown on the 'About Alpaca' dialog"
-msgstr ""
+msgstr "调试消息现在显示在“关于Alpaca”对话框中"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:544
 msgid "Updated Ollama to v0.3.0 (new models)"
-msgstr ""
+msgstr "Ollama更新至v0.3.0（新模型）"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:553
 msgid "Models with '-' in their names didn't work properly, this is now fixed"
-msgstr ""
+msgstr "名称中带有“-”的模型无法正常工作，现在已修复"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:554
 msgid "Better connection check for Ollama"
-msgstr ""
+msgstr "对Ollama进行更好的连接检查"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:561
 msgid "Stable Release"
-msgstr ""
+msgstr "稳定版"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:562
 msgid ""
 "The new icon was made by Tobias Bernard over the Gnome Gitlab, thanks for "
 "the great icon!"
-msgstr ""
+msgstr "新图标是由Tobias Bernard在Gnome Gitlab上制作的，感谢“伟大的图标！”"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:563
 msgid "Features and fixes"
-msgstr ""
+msgstr "功能和修复"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:565
 msgid "Updated Ollama instance to 0.2.8"
-msgstr ""
+msgstr "已将Ollama实例更新为0.2.8"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:566
 msgid "Better model selector"
-msgstr ""
+msgstr "更好的mox选择器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:567
 msgid "Model manager redesign"
-msgstr ""
+msgstr "模型管理器重新设计"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:568
 msgid "Better tag selector when pulling a model"
-msgstr ""
+msgstr "用模型时更好的标签选择器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:569
 msgid "Model search"
-msgstr ""
+msgstr "模型搜索"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:570
 msgid "Added support for bearer tokens on remote instances"
-msgstr ""
+msgstr "添加了对远程实例上承载令牌的支持"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:571
 msgid "Preferences dialog redesign"
-msgstr ""
+msgstr "首选项对话框重新设计"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:572
 msgid "Added context menus to interact with a chat"
-msgstr ""
+msgstr "添加了上下文菜单以与聊天进行交互"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:573
 msgid "Redesigned primary and secondary menus"
-msgstr ""
+msgstr "重新设计的主菜单和次菜单"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:574
 msgid ""
 "YouTube integration: Paste the URL of a video with a transcript and it will "
 "be added to the prompt"
-msgstr ""
+msgstr "YouTube集成：粘贴带有文字记录的视频URL，它将“添加到提示中”"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:575
 msgid ""
 "Website integration (Experimental): Extract the text from the body of a "
 "website by adding it's URL to the prompt"
-msgstr ""
+msgstr "“网站集成（实验性）：从…的正文中提取文本“将网站的URL添加到提示中”"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:576
 msgid "Chat title generation"
-msgstr ""
+msgstr "聊天标题生成"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:577
 msgid "Auto resizing of message entry"
-msgstr ""
+msgstr "自动调整消息条目的大小"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:578
 msgid "Chat notifications"
-msgstr ""
+msgstr "聊天通知"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:579
 msgid "Added indicator when an image is missing"
-msgstr ""
+msgstr "当图像丢失时添加指示器"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:580
 msgid "Auto rearrange the order of chats when a message is received"
-msgstr ""
+msgstr "收到消息时自动重新排列聊天顺序"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:581
 msgid "Redesigned file preview dialog"
-msgstr ""
+msgstr "重新设计的文件预览对话框"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:582
 msgid "Credited new contributors"
-msgstr ""
+msgstr "新贡献者"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:583
 msgid "Better stability and optimization"
-msgstr ""
+msgstr "更好的稳定性和优化"
 
 #: data/com.jeffser.Alpaca.metainfo.xml.in:584
 msgid "Edit messages to change the context of a conversation"
